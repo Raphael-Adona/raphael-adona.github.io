@@ -9,7 +9,7 @@ labels:
   - Java
   - Visual Basic
   - Eclipse
-summary: "Student registration system that can offer different features. I created this because I was inspired by public college school's portals in the Philippines."
+summary: "Student registration system that offers different features. I created this because I was inspired by public college school's portals in the Philippines."
 ---
 
 <img class="img-fluid" src="../img/studentregistrationbody1.png">
