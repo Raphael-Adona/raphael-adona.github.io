@@ -11,7 +11,7 @@ labels:
 summary: "Mystery of Balete Tree."
 ---
 
-<img class="img-fluid" src="../img/baletebody.png">
+<img class="img-fluid" width = "800" src="../img/baletebody.png">
 
 ## Mystery of Balete Tree
 
