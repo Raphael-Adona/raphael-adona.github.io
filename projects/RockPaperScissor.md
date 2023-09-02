@@ -8,7 +8,7 @@ published: true
 labels:
   - Java
   - Adobe Photoshop
-summary: "A 2-D Rock Paper Scissor with a TWIST. I created this app with my college friends back in 2011. Not your typical Rock-Paper-Scissor"
+summary: "A 2-D Rock Paper Scissor with a TWIST. I created this app with my college friends back in 2011. Programmed using Java and practiced working with different Java Classes."
 ---
 
 <img class="img-fluid" src="../img/Project1Body.png">
