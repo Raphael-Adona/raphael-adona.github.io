@@ -11,8 +11,6 @@ labels:
   - JSFiddle
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/javascript1.jpg">
-
 From Zero to Hero : Back to my DREAMS
 
 Things I’ve learned…. Back then
