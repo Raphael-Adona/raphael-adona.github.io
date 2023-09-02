@@ -2,57 +2,23 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: ""RockPaperScissor""
+date: 2011
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Java
+  - Adobe Photoshop
+summary: "A 2-D Rock Paper Scissor with a TWIST."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Rock-Paper-Scissor is a 2-D game that I and my groupmates back in the Philippines created. This is not your ordinary Rock-Paper-Scissor! It comes with a twist! This is supposed to be downloaded by the users and be at the same room, at the same time!
 
-To give you a flavor of the game, here is an excerpt from one run:
+To give you a hint about the TWIST, you should have a handkerchief ready. Someone is about to be blindfolded! This app is programmed to have a twist when you win, but the loser takes the consequences of the twist. This program has a lot of If-Else statement. I had to understand the concept of recursion. I had to communicated with my whole team who's going to do the coding, photo-editing, twist/consequences, and the program plan itself.
 
 <hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
+Imagine being blindfolded, how dark it could be? Imagine what is coming!
 
 <hr>
 
