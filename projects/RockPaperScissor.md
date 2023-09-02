@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: ""RockPaperScissor""
+title: "RockPaperScissor"
 date: 2011
 published: true
 labels:
@@ -22,4 +22,3 @@ Imagine being blindfolded, how dark it could be? Imagine what is coming!
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
