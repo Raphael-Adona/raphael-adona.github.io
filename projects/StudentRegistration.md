@@ -9,7 +9,7 @@ labels:
   - Java
   - Visual Basic
   - Eclipse
-summary: "Student Registration System."
+summary: "Student registration system that can offers different features and was inspired by public college school's portals in the Philippines."
 ---
 
 <img class="img-fluid" src="../img/studentregistrationbody1.png">
