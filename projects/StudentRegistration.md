@@ -32,4 +32,4 @@ STUDENT:
 1) Student/s can enroll to a subject, see the payment information, and update their information.
    
 2) Student/s can also see the grading system, available classes ( 4 maximum), and print their information.
-</hr>
+
