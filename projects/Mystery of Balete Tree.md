@@ -8,7 +8,7 @@ published: true
 labels:
   - Folklore
   - Research
-summary: "Mystery of Balete Tree."
+summary: "Mystery of Balete Tree final presentation. Discover what is inside a Balete Tree."
 ---
 
 <img class="img-fluid" width = "800" src="../img/baletebody.png">
