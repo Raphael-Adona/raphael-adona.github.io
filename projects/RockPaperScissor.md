@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/ProjectMain.png
 title: "RockPaperScissor"
 date: 2011
 published: true
