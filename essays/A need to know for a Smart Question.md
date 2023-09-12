@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - StackOverFlow
   - Smart Question
+  - Learning
 ---
 
 # Ask a question: The SMART Way
@@ -21,15 +22,15 @@ In programming, asking a question is not a one-way street. A programmer needs to
 <hr>
 
 ## Not-so SMART way
-<img width="600px" 
-     class="rounded float-start pe-4" 
+<img width="600px"
+     class="rounded float-start pe-4"
      src="../img/badquestion.png" >
 
-     
-Asking a question with incomplete information can lead in wrong answers. We need to remember that people have different ideas and thoughts. Before asking a question, we must think, “is there a better way to ask this question?” For this [question](https://stackoverflow.com/questions/50067307/use-a-formatted-string-to-separate-groups-of-digits) there could be a better way to ask this question. Instead of saying *I tried this* then provide the code after with a question, there could be more information added to it as well. For example, what did you expect it to do? What have you already tried? Did you only try it once? If the answer is yes, then you should indicate it with the result. If you tried more then, next question would be, what happened in those attempts? Did you do any research? If you did, you should provide it too. Asking a question should be spoon-feeding. This should be a trial-and-error, and if you can’t still fix it, then ask! *The SMART way* Be detailed: in particular, if something didn’t work, don’t just state that: tell us how it failed. In programming, this is also an important question. If it threw an exception, what was the exception? Do not just indicate the type give the error message and say which line threw it. 
+
+Asking a question with incomplete information can lead in wrong answers. We need to remember that people have different ideas and thoughts. Before asking a question, we must think, “is there a better way to ask this question?” For this [question](https://stackoverflow.com/questions/50067307/use-a-formatted-string-to-separate-groups-of-digits) there could be a better way to ask this question. Instead of saying *I tried this* then provide the code after with a question, there could be more information added to it as well. For example, what did you expect it to do? What have you already tried? Did you only try it once? If the answer is yes, then you should indicate it with the result. If you tried more then, next question would be, what happened in those attempts? Did you do any research? If you did, you should provide it too. Asking a question should be spoon-feeding. This should be a trial-and-error, and if you can’t still fix it, then ask! *The SMART way* Be detailed: in particular, if something didn’t work, don’t just state that: tell us how it failed. In programming, this is also an important question. If it threw an exception, what was the exception? Do not just indicate the type give the error message and say which line threw it.
 
 <hr>
 
 ## Conclusion: SMART questions lead to SMART answers
 
-In conclusion, asking smart questions is a vital part especially for us, programmers, because it allows us to get the closest and right answers they we should get to solve our problems. By being precise, understanding context, asking the right question, and thinking critically about the question we have, we can use other people’s deeper insights, knowledge, and foster meaningful connections within the community. 
+In conclusion, asking smart questions is a vital part especially for us, programmers, because it allows us to get the closest and right answers they we should get to solve our problems. By being precise, understanding context, asking the right question, and thinking critically about the question we have, we can use other people’s deeper insights, knowledge, and foster meaningful connections within the community.
