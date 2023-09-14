@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/javascript1.jpg">
+<img width="600px" class="rounded float-start pe-4" src="../img/javascript1.jpg">
 
 Learning Javascript: The Beginning Journey
 
