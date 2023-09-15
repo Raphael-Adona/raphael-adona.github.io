@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "email", "username": "rsadona", "url": "https://rsadona@hawaii.edu" },
-      { "network": "github", "username": "", "": "https://raphael-adona.github.io/" },
+      { "network": "github", "username": "rsadona", "url": "https://raphael-adona.github.io/" },
       { "network": "linkedin", "username": "rsadona", "url": "https://www.linkedin.com/in/raphael-adona-14a37728a/" },
     ]
   },
