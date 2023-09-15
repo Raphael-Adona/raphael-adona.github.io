@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "email", "username": "", "url": "https://rsadona@hawaii.edu" },
       { "network": "github", "username": "", "url": "https://raphael-adona.github.io/" },
-      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/raphael-adona-14a37728a/" },
+      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/raphael-adona-14a37728a/" }
     ]
   },
   "interests": [
