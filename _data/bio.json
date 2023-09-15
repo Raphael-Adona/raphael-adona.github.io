@@ -10,6 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "email", "username": "", "url": "https://rsadona@hawaii.edu" },
+      { "network": "facebook", "username": "", "url": "https://www.facebook.com/limangidolo.tropahan/" },
       { "network": "github", "username": "", "url": "https://raphael-adona.github.io/" },
       { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/raphael-adona-14a37728a/" }
     ]
