@@ -13,7 +13,7 @@ labels:
 
 # Importance of Coding Standards
 
-A smart way of asking a question contains providing a clear context, being detailed, and be DIRECT. It doesn’t matter what type of question you’re asking. To do that, you also need to know what kind of information you’re looking for and “WHO” is the best person to ask. Not knowing these two basic things is like bringing a knife to a gunfight. Remember, if you need an answer, you better know how to ask (the SMART WAY). After reading “How To Ask Questions The Smart Way” by Eric Steven Raymond’s, I realized the important things to consider when asking questions to get the RIGHT answers.
+Coding standards plays a big part of software development. While some people may find them as minor elements, I believe that if there's one software engineering technique I learned, and still going to learn to improve the quality of programming, it should be coding standards. They serve as an “outline” for creating my code and building my program. Coding standards are not just for the looks, but it also makes things easy to understand and maintain. 
 
 ## What do I get and believe
 
