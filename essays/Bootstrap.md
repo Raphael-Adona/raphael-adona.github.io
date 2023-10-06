@@ -12,7 +12,7 @@ labels:
   - Bootstrap
 ---
 <hr>
-<img width="600px" class = "center" class="rounded float-start pe-4" src="../img/bootstrap.png">
+<img width="400px" class = "center" class="rounded float-start pe-4" src="../img/bootstrap.png">
 
 
 
