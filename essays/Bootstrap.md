@@ -11,8 +11,9 @@ labels:
   - Learning
   - Bootstrap
 ---
-<hr>
-<img width="400px" class = "center" class="rounded float-start pe-4" src="../img/bootstrap.png">
+<img width="600" class="rounded float-start pe-4" src="../img/bootstrap.png">
+
+
 
 
 
@@ -34,4 +35,4 @@ labels:
 ## Conclusion
 
   In conclusion, Bootstrap 5 is built to help developers, but not to compare with HTML & CSS. It is another tool that will help us in web development by providing a well-composed framework that is more efficient in terms of the process, encouraging code maintainability, and ensuring responsiveness. Even if HTML and CSS continue to be crucial skills, Bootstrap 5 is there to balances them by proposing a way for consistency, efficiency, and extensibility. 
-<hr>
+
