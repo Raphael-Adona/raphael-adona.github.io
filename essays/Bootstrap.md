@@ -11,8 +11,10 @@ labels:
   - Learning
   - Bootstrap
 ---
+<hr>
+<img width="600px" class = "center" class="rounded float-start pe-4" src="../img/bootstrap.png">
 
-<img width="600px" class="rounded float-start pe-4" src="../img/bootstrap.png">
+
 
 ## What is Bootstrap for us?
 
