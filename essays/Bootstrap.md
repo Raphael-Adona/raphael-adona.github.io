@@ -29,7 +29,7 @@ labels:
   While raw HTML and CSS are essential building blocks, Bootstrap 5 offers a way to enhance the development experience. Bootstrap 5 can provide a well-designed framework that helps on having consistency. Bootstrap 5 also offers customization. Being able to modify default styles or extend components to suit specific design needs. By following to standardized conventions and class names, we can create code that is easier to read and maintain. 
 
 
-#### Conclusion
+## Conclusion
 
   In conclusion, Bootstrap 5 is built to help developers, but not to compare with HTML & CSS. It is another tool that will help us in web development by providing a well-composed framework that is more efficient in terms of the process, encouraging code maintainability, and ensuring responsiveness. Even if HTML and CSS continue to be crucial skills, Bootstrap 5 is there to balances them by proposing a way for consistency, efficiency, and extensibility. 
 <hr>
