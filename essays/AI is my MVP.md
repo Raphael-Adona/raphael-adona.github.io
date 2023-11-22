@@ -24,16 +24,16 @@ In my class ICS 314, AI made a big difference. It changed how I learned and unde
 AI changed how I think about software engineering. AI tools like ChatGPT helped a lot. ChatGPT is great at explaining hard things and answering questions fast. It made understanding software engineering ideas easier.  But AI was hard at first. It took time to understand how AI works. When I got used to it, AI made understanding software engineering much better. But it does still requires you to learn the logic behind the code. It is not always 100% correct, so you still have to debug some of the codes that ChatGPT gives you or the answer it provided.
 
 ## Practical Applications
-I saw AI help in real projects outside class. My recent projects and in my final project, I tend to ask ChatGPT if I feel like my code doesn't feel right. It showed how important AI is in our education, like it's important in work. At work, I do also use ChatGPT when there is questions that website doesn't answer properly.
+I saw AI help in real projects outside class. My recent projects and in my final project, I tend to ask ChatGPT if I feel like my code doesn't feel right. It showed how important AI is in our education, like it's important in work. At work, I do also use ChatGPT when there is questions that website doesn't answer properly. In my final project, I am planning to use ChatGPT more. Since all the files are complex in our final project, ChatGPT allows you to insert codes of the files you already made, and help you fix other files in the other folders aswell.
 
 ## Challenges and Opportunities
 AI had good and bad things. Some people found it hard at first. But we learned how to use it better. We can make AI easier for everyone to use and learn.
 
 ## Comparative Analysis
-AI ways helped me learn more than the usual ways. It's more helpful and fast. It keeps me interested and helps me remember things better. I learned more and got better at using software engineering.
+AI ways helped me learn more than the usual ways. It's more helpful and fast. Sometimes, I do watch Youtube videos, and I prefer using ChatGPT since it is faster. It keeps me interested and helps me remember things better. I learned more and got better at using software engineering.
 
 ## Future Considerations
-AI will help us more in the future. It will change how we learn software engineering. We need to make AI better for everyone to learn and use. It should be easy and helpful for all kinds of learners.
+AI will help us more in the future. I know some people think that this is unethical, but time will come that we will start to adopt and embraces the changes that ChatGPT offers. It will change how we learn software engineering. We need to make AI better for everyone to learn and use. It should be easy and helpful for all kinds of learners.
 
 <hr>
 
