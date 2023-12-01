@@ -10,12 +10,13 @@ labels:
   - Learning
   - Design Pattern
 ---
-<img width="600" class="rounded float-start pe-4" src="../img/houses.png">
+<img width="600" class="rounded float-start pe-4" src="../img/Houses.png">
 
-## Imagine a floor plan
+
+# Imagine a floor plan
 Imagine you're building a house and facing familiar issues. One thing you need is the "Blueprint". Imagine building a house without a plan, oh wait, you can imagine that? I can tell you cant! :) For example, you need to ensure that there's only one main entrance for security reasons. In coding, this relates to making sure there's only one way to access certain information or resources. Only specific people who should access a secret information should be the one and only liable if there is something bad to happen. Which we can also relate to (Zero-trust-policy).
 
-## How do you build it? 
+# How do you build it? 
 Specific parts the house that we will build in this essay is something that can will react when something changes, but they don't directly communicate to each other. This is like having cameras around the house that observe and react to changes without needing direct communication. In addition, consider a scenario where you need to make different furniture pieces based on specific needs (lets say a vase!) without revealing the complicated manufacturing process. That's similar to how in coding, you might create different objects or elements based on requirements without showing the complex inner workings.
 
 # How do I apply design patterns in my coding
