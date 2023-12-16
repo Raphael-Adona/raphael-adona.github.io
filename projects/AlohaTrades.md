@@ -13,7 +13,8 @@ labels:
 summary: "Created a web application project with my groupmates called Aloha-Trades. It is designed for UHM students, faculty and/or staffs to sell items to other UHM members that can benefit from the items they no longer need or use, such as textbooks, electronics, drom furniture, and more."
 ---
 # Aloha Trades: "Your College Marketplace
-<img class="img-fluid" length = "300" width = "800" src="../img/AlohaTrade.png">
+<img class="img-fluid" width="800" height="300" src="../img/AlohaTrade.png">
+
 
 # Overview
 <img class="img-fluid" width = "800" src="../img/Frontend.png">
