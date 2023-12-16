@@ -13,7 +13,7 @@ labels:
 summary: "Created a web application project with my groupmates called Aloha-Trades. It is designed for UHM students, faculty and/or staffs to sell items to other UHM members that can benefit from the items they no longer need or use, such as textbooks, electronics, drom furniture, and more."
 ---
 # Aloha Trades: "Your College Marketplace
-<img class="img-fluid" width = "1600" src="../img/AlohaTrade.png">
+<img class="img-fluid" width = "800" src="../img/AlohaTrade.png">
 
 # Overview
 <img class="img-fluid" width = "800" src="../img/Frontend.png">
@@ -28,6 +28,7 @@ Driven by the project directive, we customized the template by imposing specific
 This project was a joint endeavor alongside three other classmates. During our initial discussions, we delved into our ideas for the website's design, functionality, and user experience. My specific contributions were clear-cut: I advocated for mandatory account access, stipulating that users must register using a hawaii.edu email address to enhance student safety. Additionally, signing in required the use of the @hawaii.edu email.
 
 We proceeded by outlining the essential pages and components vital for the site's core operations. My responsibilities encompassed setting up the Feedback page for student reviews and queries, integrating the marketplace icon, designing the student landing page, and, significantly, constructing our flowchart, which served as the blueprint guiding the website's development.
+
 <img class="img-fluid" width = "800" src="../img/Flowchart.PNG">
 
 [<footer>Aloha Trades Webpage</footer>](https://aloha-trades.com/)
