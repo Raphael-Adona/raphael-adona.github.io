@@ -1,0 +1,64 @@
+{
+  "basics": {
+    "name": "Raphael Adona",
+    "label": "Student",
+    "picture": "https://github.com/Raphael-Adona.png",
+    "email": "rsadona@hawaii.edu",
+    "phone": "",
+    "website": "https://raphael-adona.github.io/",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/raphael-adona-14a37728a/" },
+      { "network": "github", "username": "", "url": "https://raphael-adona.github.io/" },
+      { "network": "facebook", "username": "", "url": "https://www.facebook.com/limangidolo.tropahan/" }
+    ]
+  },
+  "interests": [
+    { "name": "Programming" },
+    { "name": "Game Testing" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Cyber Security" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Microsoft Azure" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Microsoft" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Valiant Integrated Services",
+      "position": "Junior IT Support",
+      "website": "",
+      "startDate": "2021-02-14",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Maintain, update, troubleshoot hardware machines",
+        "Providing computer support for users"
+      ]
+    },
+   
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
