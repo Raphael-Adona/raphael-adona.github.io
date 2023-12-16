@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AlohaTrade.png
+image: img/Aloha.png
 title: "AlohaTrades"
 date: 2023
 published: true
@@ -14,7 +14,7 @@ summary: "Created a web application project with my groupmates called Aloha-Trad
 ---
 
 # Aloha Trades: "Your College Marketplace
-<img class="img-fluid" width = "1500" src="../img/AlohaTrade.png">
+<img class="img-fluid" width = "1700" src="../img/AlohaTrade.png">
 
 # Overview
 <img class="img-fluid" width = "800" src="../img/Frontend.png">
